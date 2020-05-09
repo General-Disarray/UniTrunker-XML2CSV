@@ -2,8 +2,8 @@
 Python script to extract TalkGroups and Radio IDs from UniTrunker XML files and write to CSV
 
 V1.04 - Changes:
-Bug fix - Conversion of timestamps to dates corrected.
-Code cleanup
+* Bug fix - Conversion of timestamps to dates corrected.
+* Code cleanup
 
 V1.03 - Changes: 
 * Filter out Radio IDs of known encrypted users
