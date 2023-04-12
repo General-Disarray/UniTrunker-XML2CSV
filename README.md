@@ -1,6 +1,10 @@
 # UniTrunker-XML2CSV
 Python script to extract TalkGroups and Radio IDs from UniTrunker XML files and write to CSV
 
+V1.065 - Changes:
+* Added exporting the converted file to DSD Group Aliases and to SDR Trunk playlist XML format for pasting into the respective files. Always make a backup copy of the files before editing. 
+* The Group Tag and User Tag variables now reference 'brief' field instead of 'tag' field as tag was repurposed within Unitrunker.
+
 V1.05 - Changes:
 * Added a switch to control creation of generic Radio IDs or exclusion for unknown radios. 
 
